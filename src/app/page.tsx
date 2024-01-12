@@ -9,7 +9,7 @@ export default function Home() {
       <ul>
         <li>
         <Link href="/contact">Contact</Link>
-        {/* <Link href="/about">About</Link> */}
+        <Link href="/about">About</Link>
         <Link href="/">Home</Link>
         </li>
       </ul>
